@@ -1,0 +1,5 @@
+package fatty
+
+func main() {
+
+}
